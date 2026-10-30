@@ -1,7 +1,6 @@
 # 11-3-2026_dataProject_advCS_mannoia
-======================
-  LINK & DESCRIPTION
-======================
+LINK & DESCRIPTION
+==================
 My file is a REEF Marine Life Survey Geographic Zone Report. Specifically, it contains data from between Jupiter Inlet and Key Biscayne, Florida, from 1993-2026. I got it from the REEF (Reef Environmental Education Foundation) website, and I chose it because I am actually REEF certified to conduct marine life surveys in this region (Tropical Western Atlantic), and my survey from a dive in Palm Beach earlier this year is part of this data!
 
 REEF collects its marine life data through volunteer surveys. Certified surveyors can take a special underwater slate and record species and amount of said species seen on their dive, and then put it into REEF's database. The organization collects data on fish and all other kinds of species, from turtles to octopi. These surveys therefore become a really useful tool for tracking marine life behavior and patterns.
@@ -18,10 +17,8 @@ You can use the following link to learn more about interpreting REEF data:
 https://www.reef.org/interpreting-reef-data
 
 
-
-==========================
-  QUESTIONS & HYPOTHESES
-==========================
+QUESTIONS & HYPOTHESES
+======================
 QUESTIONS:
 1. [Percentage] What percentage of all 388 reported species belong to the top 3 most prevalent reef fish families (Damselfish, Grunts, and Wrasses)?
 2. [Combinations/Helper] Of all 388 species recorded, what percentage are "commonly encountered" (have an overall Sighting Frequency of > 50% across all surveys)?
